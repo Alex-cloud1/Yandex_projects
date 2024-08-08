@@ -1,4 +1,4 @@
-# Yandex_projects
+# Yandex.prakticum_projects
 
 Проекты:
 #
